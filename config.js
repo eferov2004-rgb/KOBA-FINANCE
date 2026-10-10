@@ -1,5 +1,5 @@
 // Настройки Supabase. Используйте только публичный anon/publishable key, НЕ service_role.
 window.KOBA_CONFIG = {
-  SUPABASE_URL: "YOUR_SUPABASE_PROJECT_URL",
-  SUPABASE_ANON_KEY: "YOUR_SUPABASE_ANON_OR_PUBLISHABLE_KEY"
+  SUPABASE_URL: "sb_publishable_yHnOvy-XlcILjDoaHVDCFQ_2bwrOi6K",
+  SUPABASE_ANON_KEY: "https://lfjtgqhpltxejgdsdhnk.supabase.co"
 };
